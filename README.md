@@ -3,7 +3,7 @@
 </p>
 
 ## 💫 About Me
-- 🔍 I'm a sixth-semester Informatics Engineering student at Gunadarma University, passionate about solving real-world problems through Artificial Intelligence and Machine Learning.<br>
+- 🔍 I'm a seventh-semester Informatics Engineering student at Gunadarma University, passionate about solving real-world problems through Artificial Intelligence and Machine Learning.<br>
 - 🤖 Currently, I'm diving deep into Advanced Deep Learning and Mobile Development, exploring cutting-edge AI techniques and their applications in various domains.<br>
 - 🤝 I'm open to collaborations on Machine Learning and AI research projects, aiming to build impactful solutions.<br>
 - 💡 Always eager to learn, innovate, and push the boundaries of technology!
