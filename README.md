@@ -71,24 +71,22 @@
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FR21&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Felix's GitHub Stats" height="165" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=FR21&theme=tokyonight&hide_border=false" alt="Felix's GitHub Streak" height="165" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FR21&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Felix's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FR21&theme=tokyonight&hide_border=false" alt="Felix's GitHub Streak" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FR21&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FR21&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FR21/FR21/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FR21/FR21/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/FR21/FR21/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FR21/FR21/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FR21/FR21/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/FR21/FR21/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
