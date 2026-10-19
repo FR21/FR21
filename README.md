@@ -13,7 +13,7 @@
 
 ### 💫 About Me
 
-- 🎓 **Fresh Graduate** in Computer Science from Gunadarma University, specializing in **Artificial Intelligence & Machine Learning**.
+- 🎓 **Computer Science** from Gunadarma University, specializing in **Artificial Intelligence & Machine Learning**.
 - 🤖 Passionate about **Autonomous AI Agents**, **Computer Vision (CV)**, and **Deep Learning Architectures**.
 - 🔬 Active in **AI research & applied machine learning**, bridging the gap between theoretical models and real-world deployment.
 - 🛠️ Experienced in building end-to-end ML pipelines, deep learning model fine-tuning, and scalable AI-driven applications.
